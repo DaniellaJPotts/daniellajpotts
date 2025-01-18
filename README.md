@@ -12,10 +12,10 @@
 
 <h2>/* ABOUT */</h2>  
 <ul>
-    <li>⭐ My realm is Web dev, Games, and QA</li>
-    <li>🕵️‍♀️ Mainly working in private repos</li>
-    <li>💚 CRT TVs, Data Archiving, and PC Building</li>
-    <li>⛰️ When I'm not on my computer, I'm in a Cave or on a Mountain</li>
+    <li>⭐ My realm is Web dev, Games, and QA.</li>
+    <li>🕵️‍♀️ Mainly working in private repos.</li>
+    <li>💚 CRT TVs, Data Archiving, and PC Building.</li>
+    <li>⛰️ When I'm not on my PC, I'm in a Cave or on a Mountain.</li>
 </ul>
 
 
