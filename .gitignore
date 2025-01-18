@@ -1,0 +1,10 @@
+# Ignore everything...
+*
+!*/
+
+
+# ... except:
+!/.gitignore
+!/.github/README/*
+
+#!/.README.md
