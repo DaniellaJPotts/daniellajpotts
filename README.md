@@ -52,3 +52,5 @@
         <picture><img src="https://img.shields.io/badge/DaVinci_Resolve-%23233A51?style=for-the-badge&logo=davinciresolve&logoColor=%23FFFFFF" alt="DaVinci Resolve"></picture>
     </li>
 </ul>
+
+<br>
