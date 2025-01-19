@@ -3,7 +3,7 @@
     <a href=".github/README/Daniella%20Potts%2C%20CV%20-%20hidden.pdf"><img align="right" src="https://img.shields.io/badge/Resume-%23323330?style=for-the-badge" alt="Resume"></a>
 </p>
 <p>
-    <picture>><img width="450" src=".github/README/Title.png"><picture>
+    <picture><img width="450" src=".github/README/Title.png"></picture>
 </p>
 
 
@@ -19,7 +19,7 @@
 </ul>
 
 
-<br><br>
+<br>
 <h2>/* SKILLS */</h2>
 <ul>
     <li>
@@ -52,5 +52,6 @@
         <picture><img src="https://img.shields.io/badge/DaVinci_Resolve-%23233A51?style=for-the-badge&logo=davinciresolve&logoColor=%23FFFFFF" alt="DaVinci Resolve"></picture>
     </li>
 </ul>
+
 
 <br>
